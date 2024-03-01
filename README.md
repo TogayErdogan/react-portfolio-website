@@ -1,6 +1,6 @@
 # Portfolio Project
-![Screenshot](./src/assets/home.png)
-This is a responsive portfolio site created with ReactJS and plain CSS that implements Swiper for sliding components and EmailJS for contact services.
+![Screenshot](./src/assets/Ekran Resmi 2024-03-02 00.34.05.png)
+This dynamic portfolio website showcases your work and skills using ReactJS, a popular JavaScript framework. It adapts to different screen sizes (responsive design) and utilizes plain CSS for styling. Additionally, it incorporates Swiper for smooth transitions and animations, and EmailJS for handling contact form submissions.
 
 ### Project Features:
 - Responsive Layout
