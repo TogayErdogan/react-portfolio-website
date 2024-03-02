@@ -6,3 +6,7 @@ This dynamic portfolio website showcases your work and skills using ReactJS, a p
 ## Credit
 This project was inspired by [Cryptical Coder]((https://www.youtube.com/watch?v=3aCoZudPEKE)https://www.youtube.com/watch?v=3aCoZudPEKE)
 
+
+# Deployments
+
+Bu deponun deployments'ı için [link](https://github.com/TogayErdogan/react-portfolio-website/deployments)
